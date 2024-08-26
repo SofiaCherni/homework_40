@@ -1,0 +1,23 @@
+.box{
+    font-family:Arial;
+	font-size:16px;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #cf866c;
+	background:linear-gradient(to bottom, #d0451b 5%, #bc3315 100%);
+	background-color:#d0451b;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16pxpx;
+	font-weight:bold;
+	padding:10px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #854629;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #bc3315 5%, #d0451b 100%);
+	background-color:#bc3315;
+}
